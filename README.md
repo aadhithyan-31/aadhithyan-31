@@ -198,7 +198,7 @@ Great things are built one commit at a time.
 </div>
 
 ---
-
+<!-->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -212,6 +212,7 @@ Great things are built one commit at a time.
 </div>
 
 ---
+-->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:A78BFA&height=150&section=footer"/>

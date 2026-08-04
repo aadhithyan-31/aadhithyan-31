@@ -65,7 +65,7 @@
 <td align="center"><img src="https://cdn.simpleicons.org/ChatGPT/000000" width="55"/><br/>Open AI</td>
 <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/>Gemini</td>
 <td align="center"><img src="https://cdn.simpleicons.org/claude/C15F3C" width="55" height="55"/><br/>Claude</td>
-<td align="center"><img src="https://img.shields.io/badge/Groq-8E2DE2?style=for-the-badge"/><br/><br/>Groq</td>
+<td align="center"><img src="https://img.shields.io/badge/Groq-8E2DE2?style=for-the-badge" width="55"/><br/><br/>Groq</td>
 <td align="center"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55"/><br/>Ollama</td>
 <td align="center"><img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55"/><br/>Perplexity</td>
 </tr>

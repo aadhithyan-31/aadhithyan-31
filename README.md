@@ -91,7 +91,7 @@
 <table>
 <tr>
 <!-- REPLACE / ADD icons to match your actual GenAI tools -->
-<td align="center"><img src="https://img.shields.io/badge/OpenAI-0d0221?style=for-the-badge&logo=openai&logoColor=00F5FF" height="40"/></td>
+<td align="center"><img src="https://img.shields.io/badge/OpenAI-0d0221?style=for-the-badge&logo=openai&logoColor=00F5FF" height="40"/><br/>Open AI</td>
 <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/>Gemini</td>
 <td align="center"><img src="https://cdn.simpleicons.org/anthropic/191919" width="55" height="55"/><br/>Claude</td>
 <td align="center"><img src="https://img.shields.io/badge/Groq-0d0221?style=for-the-badge&logo=groq&logoColor=A78BFA" height="40"/><br/>Groq</td>
@@ -159,7 +159,7 @@
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/><br/>Google Cloud</td>
-<td align="center"><img src="https://img.shields.io/badge/AWS-0d0221?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="40"/></td>
+<td align="center"><img src="https://img.shields.io/badge/AWS-0d0221?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="40"/><br/>AWS</td>
 <!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/><br/>Azure</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55"/><br/>Firebase</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/><br/>Docker</td>-->
@@ -233,12 +233,13 @@
 <div align="center">
 
 ```
-██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
-██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
-██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
-██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+
+ █████╗  █████╗ ██████╗ ██╗  ██╗██╗████████╗██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██║  ██║██║╚══██╔══╝██║  ██║╚██╗ ██╔╝██╔══██╗████╗  ██║
+███████║███████║██║  ██║███████║██║   ██║   ███████║ ╚████╔╝ ███████║██╔██╗ ██║
+██╔══██║██╔══██║██║  ██║██╔══██║██║   ██║   ██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║
+██║  ██║██║  ██║██████╔╝██║  ██║██║   ██║   ██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 
 >> STATUS: ACTIVELY SHIPPING
 >> Great things are built one commit at a time.

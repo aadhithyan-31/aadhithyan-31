@@ -28,25 +28,25 @@
 <tr>
 <td align="center">
 <a href="https://linkedin.com/in/aadhithyank" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" style="filter: drop-shadow(0 0 8px #00f5ff);"/>
+<img src="https://cdn.simpleicons.org/linkedin/00F5FF" width="55" height="55"/>
 </a>
 <br/><sub><b>LinkedIn</b></sub>
 </td>
 <td align="center">
 <a href="https://github.com/aadhithyan-31" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" style="filter: drop-shadow(0 0 8px #8e2de2);"/>
+<img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55"/>
 </a>
 <br/><sub><b>GitHub</b></sub>
 </td>
 <td align="center">
 <a href="mailto:aadhikannan31@gmail.com" target="_blank">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" style="filter: drop-shadow(0 0 8px #ea4335);"/>
+<img src="https://cdn.simpleicons.org/gmail/00F5FF" width="55" height="55"/>
 </a>
 <br/><sub><b>Email</b></sub>
 </td>
 <td align="center">
 <a href="https://instagram.com/__aadhi_official._" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" style="filter: drop-shadow(0 0 8px #e4405f);"/>
+<img src="https://cdn.simpleicons.org/instagram/A78BFA" width="55" height="55"/>
 </a>
 <br/><sub><b>Instagram</b></sub>
 </td>
@@ -66,12 +66,12 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55"/><br/>OpenAI</td>
-<td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/>Gemini</td>
-<td align="center"><img src="https://cdn.simpleicons.org/anthropic/191919" width="55" height="55"/><br/>Claude</td>
-<td align="center"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55"/><br/>Groq</td>
-<td align="center"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55"/><br/>Ollama</td>
-<td align="center"><img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55"/><br/>Perplexity</td>
+<td align="center"><img src="https://cdn.simpleicons.org/openai/00F5FF" width="55" height="55"/><br/>OpenAI</td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlegemini/A78BFA" width="55" height="55"/><br/>Gemini</td>
+<td align="center"><img src="https://cdn.simpleicons.org/anthropic/00F5FF" width="55" height="55"/><br/>Claude</td>
+<td align="center"><img src="https://cdn.simpleicons.org/groq/A78BFA" width="55" height="55"/><br/>Groq</td>
+<td align="center"><img src="https://cdn.simpleicons.org/ollama/00F5FF" width="55" height="55"/><br/>Ollama</td>
+<td align="center"><img src="https://cdn.simpleicons.org/perplexity/A78BFA" width="55" height="55"/><br/>Perplexity</td>
 </tr>
 </table>
 
@@ -82,10 +82,10 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/><br/>Python</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/><br/>Java</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><br/>HTML</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><br/>CSS</td>
+<td align="center"><img src="https://cdn.simpleicons.org/python/00F5FF" width="55" height="55"/><br/>Python</td>
+<td align="center"><img src="https://cdn.simpleicons.org/openjdk/A78BFA" width="55" height="55"/><br/>Java</td>
+<td align="center"><img src="https://cdn.simpleicons.org/html5/00F5FF" width="55" height="55"/><br/>HTML</td>
+<td align="center"><img src="https://cdn.simpleicons.org/css3/A78BFA" width="55" height="55"/><br/>CSS</td>
 </tr>
 </table>
 
@@ -96,9 +96,9 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/><br/>NumPy</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/><br/>Pandas</td>
-<td align="center"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="55" height="55"/><br/>Matplotlib</td>
+<td align="center"><img src="https://cdn.simpleicons.org/numpy/00F5FF" width="55" height="55"/><br/>NumPy</td>
+<td align="center"><img src="https://cdn.simpleicons.org/pandas/A78BFA" width="55" height="55"/><br/>Pandas</td>
+<td align="center"><img src="https://cdn.simpleicons.org/plotly/00F5FF" width="55" height="55"/><br/>Matplotlib</td>
 </tr>
 </table>
 
@@ -109,10 +109,10 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55"/><br/>Flask</td>
-<td align="center"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55"/><br/>Streamlit</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55"/><br/>Flutter</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/><br/>TailwindCSS</td>
+<td align="center"><img src="https://cdn.simpleicons.org/flask/00F5FF" width="55" height="55"/><br/>Flask</td>
+<td align="center"><img src="https://cdn.simpleicons.org/streamlit/A78BFA" width="55" height="55"/><br/>Streamlit</td>
+<td align="center"><img src="https://cdn.simpleicons.org/flutter/00F5FF" width="55" height="55"/><br/>Flutter</td>
+<td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/A78BFA" width="55" height="55"/><br/>TailwindCSS</td>
 </tr>
 </table>
 
@@ -123,8 +123,8 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/><br/>Google Cloud</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55"/><br/>AWS</td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlecloud/00F5FF" width="55" height="55"/><br/>Google Cloud</td>
+<td align="center"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55" height="55"/><br/>AWS</td>
 </tr>
 </table>
 
@@ -135,8 +135,8 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/><br/>MySQL</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/><br/>MongoDB</td>
+<td align="center"><img src="https://cdn.simpleicons.org/mysql/00F5FF" width="55" height="55"/><br/>MySQL</td>
+<td align="center"><img src="https://cdn.simpleicons.org/mongodb/A78BFA" width="55" height="55"/><br/>MongoDB</td>
 </tr>
 </table>
 
@@ -147,11 +147,11 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/><br/>VS Code</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55"/><br/>Jupyter</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/><br/>Git</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/><br/>GitHub</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55"/><br/>Figma</td>
+<td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/00F5FF" width="55" height="55"/><br/>VS Code</td>
+<td align="center"><img src="https://cdn.simpleicons.org/jupyter/A78BFA" width="55" height="55"/><br/>Jupyter</td>
+<td align="center"><img src="https://cdn.simpleicons.org/git/00F5FF" width="55" height="55"/><br/>Git</td>
+<td align="center"><img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55"/><br/>GitHub</td>
+<td align="center"><img src="https://cdn.simpleicons.org/figma/00F5FF" width="55" height="55"/><br/>Figma</td>
 </tr>
 </table>
 

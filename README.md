@@ -1,96 +1,71 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:A78BFA&height=260&section=header&text=Aadhithyan&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:8E2DE2,100:00F5FF&height=280&section=header&text=AADHITHYAN&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descAlignY=58&descSize=20&descColor=A78BFA" width="100%"/>
 
-<!-- Typing SVG — REPLACE the two lines with your own AI-building lines -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+intelligent+systems+with+AI;Turning+ideas+into+working+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%3E+Full+Stack+Developer_;%3E+Python+%7C+Java+%7C+Web+Dev_;%3E+Building+in+the+digital+frontier_" alt="Typing SVG" />
 </a>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=6d28d9&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=aadhithyan-31&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0221)
+![Followers](https://img.shields.io/github/followers/aadhithyan-31?label=FOLLOWERS&style=for-the-badge&color=8e2de2&labelColor=0d0221)
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9f?style=for-the-badge&labelColor=0d0221&logo=statuspage&logoColor=00ff9f"/>
 
 </div>
 
 ---
 
-<h2 align="center">🔗 Connect With Me</h2>
+<h2 align="center">🔗 // CONNECT</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<!-- REPLACE every href below with your actual links -->
 <td align="center">
 <a href="https://linkedin.com/in/aadhithyank" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" style="filter: drop-shadow(0 0 8px #00f5ff);"/>
 </a>
-<br/>LinkedIn
+<br/><sub><b>LinkedIn</b></sub>
 </td>
 <td align="center">
 <a href="https://github.com/aadhithyan-31" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" style="filter: drop-shadow(0 0 8px #8e2de2);"/>
 </a>
-<br/>GitHub
+<br/><sub><b>GitHub</b></sub>
 </td>
 <td align="center">
 <a href="mailto:aadhikannan31@gmail.com" target="_blank">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" style="filter: drop-shadow(0 0 8px #ea4335);"/>
 </a>
-<br/>Email
+<br/><sub><b>Email</b></sub>
 </td>
 <td align="center">
 <a href="https://instagram.com/__aadhi_official._" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" style="filter: drop-shadow(0 0 8px #e4405f);"/>
 </a>
-<br/>Instagram
+<br/><sub><b>Instagram</b></sub>
 </td>
 </tr>
-<!--<tr>
-<td align="center">
-<a href="YOUR_DISCORD_INVITE_LINK" target="_blank">
-<img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55"/>
-</a>
-<br/>Discord
-</td>
-<td align="center">
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55"/>
-</a>
-<br/>Portfolio
-</td>
-<td align="center">
-<a href="YOUR_KAGGLE_URL" target="_blank">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55"/>
-</a>
-<br/>Kaggle
-</td>
-<td align="center">
-<a href="YOUR_RESUME_LINK" target="_blank">
-<img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55"/>
-</a>
-<br/>Resume
-</td>
-</tr>-->
 </table>
 
 </div>
 
 ---
 
-<h2 align="center">🧠 Tech Stack</h2>
+<h2 align="center">🧠 // TECH STACK</h2>
 
 <div align="center">
 
-**GenAI / LLMs**
+<img src="https://img.shields.io/badge/GenAI%20%2F%20LLMs-000000?style=for-the-badge&labelColor=0d0221&color=00f5ff"/>
+<br/><br/>
 
 <table>
 <tr>
-<!-- REPLACE / ADD icons to match your actual GenAI tools -->
 <td align="center"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55"/><br/>OpenAI</td>
 <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/>Gemini</td>
 <td align="center"><img src="https://cdn.simpleicons.org/anthropic/191919" width="55" height="55"/><br/>Claude</td>
@@ -102,7 +77,8 @@
 
 <br/>
 
-**Languages**
+<img src="https://img.shields.io/badge/Languages-000000?style=for-the-badge&labelColor=0d0221&color=8e2de2"/>
+<br/><br/>
 
 <table>
 <tr>
@@ -115,33 +91,21 @@
 
 <br/>
 
-**AI & ML**
-
-<!--<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/><br/>TensorFlow</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55"/><br/>PyTorch</td>
-<td align="center"><img src="https://cdn.simpleicons.org/keras/D00000" width="55" height="55"/><br/>Keras</td>
-<td align="center"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" height="55"/><br/>Scikit-learn</td>
-</tr>
-</table>
-
-<br/>-->
-
-**Data Science**
+<img src="https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge&labelColor=0d0221&color=00f5ff"/>
+<br/><br/>
 
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/><br/>NumPy</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/><br/>Pandas</td>
-<!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55"/><br/>OpenCV</td>-->
 <td align="center"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="55" height="55"/><br/>Matplotlib</td>
 </tr>
 </table>
 
 <br/>
 
-**Web & App Dev**
+<img src="https://img.shields.io/badge/Web%20%26%20App%20Dev-000000?style=for-the-badge&labelColor=0d0221&color=8e2de2"/>
+<br/><br/>
 
 <table>
 <tr>
@@ -154,34 +118,32 @@
 
 <br/>
 
-**Cloud & Infra**
+<img src="https://img.shields.io/badge/Cloud%20%26%20Infra-000000?style=for-the-badge&labelColor=0d0221&color=00f5ff"/>
+<br/><br/>
 
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/><br/>Google Cloud</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55"/><br/>AWS</td>
-<!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/><br/>Azure</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55"/><br/>Firebase</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/><br/>Docker</td>-->
 </tr>
 </table>
 
 <br/>
 
-**Databases**
+<img src="https://img.shields.io/badge/Databases-000000?style=for-the-badge&labelColor=0d0221&color=8e2de2"/>
+<br/><br/>
 
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/><br/>MySQL</td>
-<!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55"/><br/>PostgreSQL</td>-->
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/><br/>MongoDB</td>
-<!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55"/><br/>SQLite</td>-->
 </tr>
 </table>
 
 <br/>
 
-**Dev Tools**
+<img src="https://img.shields.io/badge/Dev%20Tools-000000?style=for-the-badge&labelColor=0d0221&color=00f5ff"/>
+<br/><br/>
 
 <table>
 <tr>
@@ -197,25 +159,25 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 // SYSTEM ANALYTICS</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6d28d9&text_color=c9d1d9&border_radius=15" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=15" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aadhithyan-31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00f5ff&icon_color=8e2de2&text_color=c9d1d9&border_radius=15" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyan-31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00f5ff&text_color=c9d1d9&border_radius=15" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&border_radius=15" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhithyan-31&theme=tokyonight&hide_border=true&background=0d0221&stroke=00f5ff&ring=8e2de2&fire=00f5ff&currStreakLabel=00f5ff&border_radius=15" width="60%"/>
 
 </div>
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">📈 // CONTRIBUTION MATRIX</h2>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyan-31&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=00f5ff&line=8e2de2&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -233,12 +195,12 @@
 <div align="center">
 
 ```
-██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
-██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
-██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
-██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+ █████╗  █████╗ ██████╗ ██╗  ██╗██╗████████╗██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██║  ██║██║╚══██╔══╝██║  ██║╚██╗ ██╔╝██╔══██╗████╗  ██║
+███████║███████║██║  ██║███████║██║   ██║   ███████║ ╚████╔╝ ███████║██╔██╗ ██║
+██╔══██║██╔══██║██║  ██║██╔══██║██║   ██║   ██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║
+██║  ██║██║  ██║██████╔╝██║  ██║██║   ██║   ██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 
 >> STATUS: ACTIVELY SHIPPING
 >> Great things are built one commit at a time.
@@ -249,5 +211,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:A78BFA&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8E2DE2,100:0F0C29&height=150&section=footer"/>
 </div>

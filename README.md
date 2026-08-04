@@ -91,10 +91,10 @@
 <table>
 <tr>
 <!-- REPLACE / ADD icons to match your actual GenAI tools -->
-<td align="center"><img src="https://img.shields.io/badge/OpenAI-0d0221?style=for-the-badge&logo=openai&logoColor=00F5FF" height="40"/><br/>Open AI</td>
+<td align="center"><img src="https://cdn.simpleicons.org/openai/00F5FF" width="55"/><br/>Open AI</td>
 <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/>Gemini</td>
 <td align="center"><img src="https://cdn.simpleicons.org/anthropic/191919" width="55" height="55"/><br/>Claude</td>
-<td align="center"><img src="https://img.shields.io/badge/Groq-0d0221?style=for-the-badge&logo=groq&logoColor=A78BFA" height="40"/><br/>Groq</td>
+<td align="center"><img src="https://img.shields.io/badge/Groq-8E2DE2?style=for-the-badge"/><br/>Groq</td>
 <td align="center"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55"/><br/>Ollama</td>
 <td align="center"><img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55"/><br/>Perplexity</td>
 </tr>
@@ -215,7 +215,7 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyan-31&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" width="100%"/>
 </div>
 
 ---

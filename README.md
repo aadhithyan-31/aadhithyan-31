@@ -1,14 +1,7 @@
-<!--
-====================================================================
-  README.md — Premium GitHub Profile
-  Replace every placeholder in ALL_CAPS_WITH_UNDERSCORES below.
-  Search for "YOUR_" and "REPLACE" to find every field.
-====================================================================
--->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:A78BFA&height=260&section=header&text=YOUR_FULL_NAME&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=YOUR_ROLE_TAGLINE&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:A78BFA&height=260&section=header&text=Aadhithyan&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full Stack Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing SVG — REPLACE the two lines with your own AI-building lines -->
 <a href="https://git.io/typing-svg">

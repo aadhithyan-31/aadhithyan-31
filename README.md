@@ -210,7 +210,9 @@ Java        ████████████████     80%
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyan-31&theme=tokyo-night"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyan-31&theme=tokyo-night&hide_border=true"/>
+</p>
 </p>
 
 </p>

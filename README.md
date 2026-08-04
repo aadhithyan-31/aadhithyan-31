@@ -1,308 +1,253 @@
-<!-- ========================================================= -->
-<!--                 🚀 REPLACE THESE VALUES 🚀                -->
-<!-- ========================================================= -->
 
-<!-- USERNAME        -> YOUR_GITHUB_USERNAME -->
-<!-- NAME            -> YOUR NAME -->
-<!-- EMAIL           -> your@email.com -->
-<!-- LINKEDIN        -> https://linkedin.com/in/yourprofile -->
-<!-- PORTFOLIO       -> https://yourportfolio.com -->
-<!-- INSTAGRAM       -> https://instagram.com/yourprofile -->
+<div align="center">
 
-<!-- ========================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:A78BFA&height=260&section=header&text=Aadhithyan&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,35:4F46E5,70:00C6FF,100:00F5FF&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
-</p>
+<!-- Typing SVG — REPLACE the two lines with your own AI-building lines -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+intelligent+systems+with+AI;Turning+ideas+into+working+products" alt="Typing SVG" />
+</a>
 
-<h1 align="center">
-Hi 👋 I'm <b>YOUR NAME</b>
-</h1>
+<br/>
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Python+Developer;Django+Developer;Full+Stack+Developer;AI+Enthusiast;Problem+Solver"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=6d28d9&labelColor=0d1117)
+
+</div>
 
 ---
 
-# 🌌 Hero Section
+<h2 align="center">🔗 Connect With Me</h2>
+
+<div align="center">
 
 <table>
 <tr>
-
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
-
+<!-- REPLACE every href below with your actual links -->
+<td align="center">
+<a href="https://linkedin.com/in/aadhithyank" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55"/>
+</a>
+<br/>LinkedIn
 </td>
-
-<td width="55%">
-
-# 💎 About Me
-
-```yaml
-Name: YOUR NAME
-
-Role:
-  - Python Developer
-  - Django Developer
-  - Full Stack Developer
-
-Passionate About:
-  - Artificial Intelligence
-  - Web Development
-  - Backend Engineering
-  - UI/UX
-
-Currently Learning:
-  - FastAPI
-  - AWS
-  - Docker
-
-Goal:
-  Build scalable applications
-  and solve real-world problems.
-```
-
+<td align="center">
+<a href="https://github.com/aadhithyan-31" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+</a>
+<br/>GitHub
 </td>
+<td align="center">
+<a href="mailto:aadhikannan31@gmail.com" target="_blank">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55"/>
+</a>
+<br/>Email
+</td>
+<td align="center">
+<a href="https://instagram.com/__aadhi_official._" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55"/>
+</a>
+<br/>Instagram
+</td>
+</tr>
+<!--<tr>
+<td align="center">
+<a href="YOUR_DISCORD_INVITE_LINK" target="_blank">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55"/>
+</a>
+<br/>Discord
+</td>
+<td align="center">
+<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55"/>
+</a>
+<br/>Portfolio
+</td>
+<td align="center">
+<a href="YOUR_KAGGLE_URL" target="_blank">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55"/>
+</a>
+<br/>Kaggle
+</td>
+<td align="center">
+<a href="YOUR_RESUME_LINK" target="_blank">
+<img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55"/>
+</a>
+<br/>Resume
+</td>
+</tr>-->
+</table>
 
+</div>
+
+---
+
+<h2 align="center">🧠 Tech Stack</h2>
+
+<div align="center">
+
+**GenAI / LLMs**
+
+<table>
+<tr>
+<!-- REPLACE / ADD icons to match your actual GenAI tools -->
+<td align="center"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55"/><br/>OpenAI</td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/>Gemini</td>
+<td align="center"><img src="https://cdn.simpleicons.org/anthropic/191919" width="55" height="55"/><br/>Claude</td>
+<td align="center"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55"/><br/>Groq</td>
+<td align="center"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55"/><br/>Ollama</td>
+<td align="center"><img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55"/><br/>Perplexity</td>
 </tr>
 </table>
 
+<br/>
+
+**Languages**
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/><br/>Python</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/><br/>Java</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><br/>HTML</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><br/>CSS</td>
+</tr>
+</table>
+
+<br/>
+
+**AI & ML**
+
+<!--<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/><br/>TensorFlow</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55"/><br/>PyTorch</td>
+<td align="center"><img src="https://cdn.simpleicons.org/keras/D00000" width="55" height="55"/><br/>Keras</td>
+<td align="center"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" height="55"/><br/>Scikit-learn</td>
+</tr>
+</table>
+
+<br/>-->
+
+**Data Science**
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/><br/>NumPy</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/><br/>Pandas</td>
+<!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55"/><br/>OpenCV</td>-->
+<td align="center"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="55" height="55"/><br/>Matplotlib</td>
+</tr>
+</table>
+
+<br/>
+
+**Web & App Dev**
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55"/><br/>Flask</td>
+<td align="center"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55"/><br/>Streamlit</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55"/><br/>Flutter</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/><br/>TailwindCSS</td>
+</tr>
+</table>
+
+<br/>
+
+**Cloud & Infra**
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/><br/>Google Cloud</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55"/><br/>AWS</td>
+<!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/><br/>Azure</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55"/><br/>Firebase</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/><br/>Docker</td>-->
+</tr>
+</table>
+
+<br/>
+
+**Databases**
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/><br/>MySQL</td>
+<!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55"/><br/>PostgreSQL</td>-->
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/><br/>MongoDB</td>
+<!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55"/><br/>SQLite</td>-->
+</tr>
+</table>
+
+<br/>
+
+**Dev Tools**
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/><br/>VS Code</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55"/><br/>Jupyter</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/><br/>Git</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/><br/>GitHub</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55"/><br/>Figma</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
-# ⚡ Tech Stack
+<h2 align="center">📊 GitHub Analytics</h2>
 
-## 💻 Languages
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6d28d9&text_color=c9d1d9&border_radius=15" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=15" width="49%"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&border_radius=15" width="60%"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-## 🚀 Frameworks
+<h2 align="center">📈 Contribution Activity</h2>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" width="100%"/>
+</div>
 
 ---
 
-## ☁ Cloud
+<div align="center">
 
-<p align="center">
+### 💬
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+> *"The best way to predict the future is to build it."*
 
-</p>
-
----
-
-## 🗄 Database
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
-
-</p>
+</div>
 
 ---
 
-## 🛠 Tools
+<div align="center">
 
-<p align="center">
+```
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
+██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
+██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
-
-# 📈 Skill Progress
-
-```text
-Python      ████████████████████ 95%
-
-Django      ██████████████████   90%
-
-React       ████████████████     80%
-
-SQL         ██████████████████   90%
-
-Java        ████████████████     80%
+>> STATUS: ACTIVELY SHIPPING
+>> Great things are built one commit at a time.
 ```
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📉 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyan-31&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aadhithyan-31&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-<!--# 🐍 Contribution Snake
-
-<p align="center">
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyan-31&theme=tokyo-night&hide_border=true"/>
-</p>
-</p>
-
-</p>-->
-
----
-
-# 💡 Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=00F7FF&style=for-the-badge"/>
-
-</p>
-
----
-
-# ⏱ Coding Activity
-
-<!-- Replace USERNAME with your WakaTime username -->
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎵 Spotify (Optional)
-
-<!-- Replace with your Spotify Readme widget -->
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</p>
-
----
-
-# ☕ Support
-
-<p align="center">
-
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:00C6FF,100:00F5FF"/>
-
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:A78BFA&height=150&section=footer"/>
+</div>

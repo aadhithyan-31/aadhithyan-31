@@ -91,7 +91,7 @@
 <table>
 <tr>
 <!-- REPLACE / ADD icons to match your actual GenAI tools -->
-<td align="center"><img src="https://cdn.simpleicons.org/openai/00F5FF" width="55" height="55"/><br/>OpenAI</td>
+<td align="center"><img src="https://www.theverge.com/news/606176/openai-new-logo-font-typeface-sans" width="55" height="55"/><br/>OpenAI</td>
 <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/>Gemini</td>
 <td align="center"><img src="https://cdn.simpleicons.org/anthropic/191919" width="55" height="55"/><br/>Claude</td>
 <td align="center"><img src="https://img.shields.io/badge/Groq-0d0221?style=for-the-badge&logo=groq&logoColor=A78BFA" height="40"/><br/>Groq</td>

@@ -197,13 +197,13 @@ Java        ████████████████     80%
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aadhithyan-31&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<!--# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -215,7 +215,7 @@ Java        ████████████████     80%
 </p>
 </p>
 
-</p>
+</p>-->
 
 ---
 

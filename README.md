@@ -206,7 +206,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&border_radius=15" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhithyan-31&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&border_radius=15" width="60%"/>
 
 </div>
 

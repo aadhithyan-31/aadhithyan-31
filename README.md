@@ -207,7 +207,7 @@ Java        ████████████████     80%
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/aadhithyan-31/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 

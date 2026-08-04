@@ -91,10 +91,10 @@
 <table>
 <tr>
 <!-- REPLACE / ADD icons to match your actual GenAI tools -->
-<td align="center"><img src="https://www.theverge.com/news/606176/openai-new-logo-font-typeface-sans" width="55" height="55"/><br/>OpenAI</td>
+<td align="center"><img src="https://cdn.simpleicons.org/openai/00F5FF" width="55" height="55"/><br/>OpenAI</td>
 <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/>Gemini</td>
 <td align="center"><img src="https://cdn.simpleicons.org/anthropic/191919" width="55" height="55"/><br/>Claude</td>
-<td align="center"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55"/><br/>Groq</td>
+<td align="center"><img src="https://img.shields.io/badge/Groq-0d0221?style=for-the-badge&logo=groq&logoColor=A78BFA" height="40"/><br/>Groq</td>
 <td align="center"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55"/><br/>Ollama</td>
 <td align="center"><img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55"/><br/>Perplexity</td>
 </tr>
@@ -159,7 +159,7 @@
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/><br/>Google Cloud</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55"/><br/>AWS</td>
+<td align="center"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55" height="55"/><br/>AWS</td>
 <!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/><br/>Azure</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55"/><br/>Firebase</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/><br/>Docker</td>-->

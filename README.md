@@ -28,7 +28,7 @@
 <tr>
 <td align="center">
 <a href="https://linkedin.com/in/aadhithyank" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/00F5FF" width="55" height="55"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00F5FF" height="55"/>
 </a>
 <br/><sub><b>LinkedIn</b></sub>
 </td>
@@ -66,10 +66,10 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/openai/00F5FF" width="55" height="55"/><br/>OpenAI</td>
+<td align="center"><img src="https://img.shields.io/badge/OpenAI-0d0221?style=for-the-badge&logo=openai&logoColor=00F5FF" height="55"/><br/>OpenAI</td>
 <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/A78BFA" width="55" height="55"/><br/>Gemini</td>
 <td align="center"><img src="https://cdn.simpleicons.org/anthropic/00F5FF" width="55" height="55"/><br/>Claude</td>
-<td align="center"><img src="https://cdn.simpleicons.org/groq/A78BFA" width="55" height="55"/><br/>Groq</td>
+<td align="center"><img src="https://img.shields.io/badge/Groq-0d0221?style=for-the-badge&logo=groq&logoColor=A78BFA" height="55"/><br/>Groq</td>
 <td align="center"><img src="https://cdn.simpleicons.org/ollama/00F5FF" width="55" height="55"/><br/>Ollama</td>
 <td align="center"><img src="https://cdn.simpleicons.org/perplexity/A78BFA" width="55" height="55"/><br/>Perplexity</td>
 </tr>

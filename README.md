@@ -61,12 +61,13 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00F5FF" height="40"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" height="40"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=00F5FF" height="40"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Groq-0d1117?style=for-the-badge&logo=groq&logoColor=A78BFA" height="40"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=00F5FF" height="40"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Perplexity-0d1117?style=for-the-badge&logo=perplexity&logoColor=A78BFA" height="40"/></td>
+<!-- REPLACE / ADD icons to match your actual GenAI tools -->
+<td align="center"><img src="https://cdn.simpleicons.org/ChatGPT/00F5FF" width="55"/><br/>Open AI</td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/>Gemini</td>
+<td align="center"><img src="https://cdn.simpleicons.org/claude/C15F3C" width="55" height="55"/><br/>Claude</td>
+<td align="center"><img src="https://img.shields.io/badge/Groq-8E2DE2?style=for-the-badge"/><br/>Groq</td>
+<td align="center"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55"/><br/>Ollama</td>
+<td align="center"><img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55"/><br/>Perplexity</td>
 </tr>
 </table>
 
@@ -89,9 +90,10 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00F5FF" height="40"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=A78BFA" height="40"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00F5FF" height="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/><br/>NumPy</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/><br/>Pandas</td>
+<!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55"/><br/>OpenCV</td>-->
+<td align="center"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="55" height="55"/><br/>Matplotlib</td>
 </tr>
 </table>
 

@@ -8,6 +8,7 @@
 
 <br/>
 <br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aadhithyan-31&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/aadhithyan-31?label=FOLLOWERS&style=for-the-badge&color=6d28d9&labelColor=0d1117)
